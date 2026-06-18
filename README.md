@@ -1,4 +1,4 @@
-<h1 align="center">Fire-Patrol-Bot - by @ice</h1>
+<h1 align="center">Fire-Patrol-Bot - by EVIDENCE TSONGODZA</h1>
 
 <p align="center">
   <img src="./media/fire-patrol-robot.jpg" alt="Fire Patrol Robot" width="600">
