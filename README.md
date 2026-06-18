@@ -1,1 +1,0 @@
-# fire_patrol_autonomous_robot
